@@ -1,7 +1,7 @@
 # Machine-Learning-Iris-Dataset
 
 The purpose of this app. was to work through a Machine Learning problem in python using the Iris dataset. 
-If you are interested in this Machine Learning exercise [go here](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
+If you are interested in this problem exercise [go here](https://machinelearningmastery.com/machine-learning-in-python-step-by-step/).
 
 ### In essence the steps were:
 1. Define Problem
